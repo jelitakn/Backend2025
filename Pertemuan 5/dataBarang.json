@@ -1,0 +1,110 @@
+[
+  {
+    "id_barang": 1,
+    "nama_barang": "Kipas angin stand",
+    "harga": 250000,
+    "stok": 20,
+    "deskripsi": "Kipas angin dengan 3 kecepatan, cocok untuk ruangan kecil hingga sedang."
+  },
+  {
+    "id_barang": 2,
+    "nama_barang": "Televisi LED",
+    "harga": 2000000,
+    "stok": 15,
+    "deskripsi": "TV LED dengan resolusi HD, Smart TV, dilengkapi HDMI dan USB port."
+  },
+  {
+    "id_barang": 3,
+    "nama_barang": "Kulkas 2 pintu",
+    "harga": 45000000,
+    "stok": 8,
+    "deskripsi": "Kulkas 2 pintu dengan kapasitas 200L, desain modern."
+  },
+  {
+    "id_barang": 4,
+    "nama_barang": "Mesin cuci front load",
+    "harga": 3000000,
+    "stok": 5,
+    "deskripsi": "Mesin cuci front load 7 kg, fitur hemat listrik dan cepat."
+  },
+  {
+    "id_barang": 5,
+    "nama_barang": "Meja makan 4 kursi",
+    "harga": 15000000,
+    "stok": 12,
+    "deskripsi": "Meja makan kayu jati dengan 4 kursi, desain elegan dan kokoh."
+  },
+  {
+    "id_barang": 6,
+    "nama_barang": "Lemari pakaian 3 pintu",
+    "harga": 18000000,
+    "stok": 15,
+    "deskripsi": "Lemari pakaian 3 pintu, desain modern dan kapasitas besar."
+  },
+  {
+    "id_barang": 7,
+    "nama_barang": "Rak TV minimalis",
+    "harga": 500000,
+    "stok": 20,
+    "deskripsi": "Rak TV dengan desain minimalis, bahan kayu solid."
+  },
+  {
+    "id_barang": 8,
+    "nama_barang": "Lampu gantung LED",
+    "harga": 300000,
+    "stok": 30,
+    "deskripsi": "Lampu gantung LED desain modern, hemat energi, cocok untuk ruang makan."
+  },
+  {
+    "id_barang": 9,
+    "nama_barang": "Vacuum cleaner",
+    "harga": 1200000,
+    "stok": 25,
+    "deskripsi": "Vacuum cleaner dengan daya hisap tinggi, mudah digunakan."
+  },
+  {
+    "id_barang": 10,
+    "nama_barang": "Blender dapur",
+    "harga": 400000,
+    "stok": 40,
+    "deskripsi": "Blender 1L dengan motor kuat, cocok untuk smoothie dan jus."
+  },
+  {
+    "id_barang": 11,
+    "nama_barang": "Speaker bluetooth",
+    "harga": 350000,
+    "stok": 35,
+    "deskripsi": "Speaker bluetooth portabel dengan kualitas suara jernih dan bass kuat."
+  },
+  {
+    "id_barang": 12,
+    "nama_barang": "Panci presto",
+    "harga": 500000,
+    "stok": 18,
+    "deskripsi": "Speaker bluetooth portabel dengan kualitas suara jernih dan bass kuat."
+  },
+  {
+    "id_barang": 13,
+    "nama_barang": "Smartwatch",
+    "harga": 900000,
+    "stok": 22,
+    "deskripsi": "Smartwatch dengan fitur monitor detak jantung, notifikasi, dan pelacakan aktivitas."
+  },
+  {
+    "id_barang": 14,
+    "nama_barang": "Sepeda gunung",
+    "harga": 2500000,
+    "stok": 10,
+    "deskripsi": "Sepeda gunung dengan frame alumunium, cocok untuk berpetualang di medan berat."
+  },
+  {
+    "id_barang": 15,
+    "nama_barang": "Kacamata renang",
+    "harga": 100000,
+    "stok": 40,
+    "deskripsi": "Kacamata renang anti kabut, nyaman dipakai untuk berenang di kolam atau laut."
+  },
+  {
+    "id": 16
+  }
+]
